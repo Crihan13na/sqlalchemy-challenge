@@ -1,7 +1,6 @@
 # sqlalchemy-challenge
-1.Whether analysis using SQLAlchemy
 
-#Climate Analysis and Exploration
+1. - Climate Analysis and Exploration
 
 -Use SQLAlchemy create_engine to connect to your sqlite database.
 -Use SQLAlchemy automap_base() to reflect your tables into classes and save a reference to those classes called Station and Measurement.
